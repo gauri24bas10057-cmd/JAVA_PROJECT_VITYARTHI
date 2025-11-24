@@ -602,7 +602,7 @@ The `test-data/` directory contains sample CSV files for testing:
 
 **Note**: This project is developed for educational purposes to demonstrate comprehensive Java SE programming concepts and best practices.
 
-**Author**: Student Name  
+**Author**: Gauri Trivedi 
 **Course**: Programming in Java  
 **Date**: 2024  
 **Version**: 1.0.0
